@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.pn](https://github.com/OlusolaIdowu/Electric-Vehicle---Washington/blob/main/Designer.jpeg))
+![alt text](https://github.com/OlusolaIdowu/Electric-Vehicle---Washington/blob/main/Designer.jpeg))
 Do you know that Electric Vehicles are fast becoming popular in the United States? 
 Let's take a look at Washington which happens to be the third U.S. state with the most EVs, where Electric Vehicles have taken center stage, silently navigating the urban landscapes, weaving through the evergreen valleys, and cruising along the shores of the Puget Sound
 
